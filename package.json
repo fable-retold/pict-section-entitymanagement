@@ -13,7 +13,7 @@
     "author": "steven velozo <steven@velozo.com>",
     "license": "MIT",
     "devDependencies": {
-        "pict-docuserve": "^0.1.6",
+        "pict-docuserve": "^1.0.1",
         "quackage": "^1.2.3"
     },
     "mocha": {
